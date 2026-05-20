@@ -1,0 +1,20 @@
+1. The command to initialize a new Git repository is:
+-> git init
+2. The command to add files to the staging area is:
+-> git add .
+3. The command to commit changes with a message is:
+-> git commit -m "Your message"
+4. The command to check the status of the repository is:
+-> git status
+5. The command to create a new branch and switch to it is:
+-> git checkout -b branch_name
+6. The command to merge a branch into the current branch is:
+-> git merge branch_name
+7. The command to view differences between two branches or commits is:
+-> git diff
+8. The command to revert changes to a specific file is:
+-> git checkout -- filename
+9. The command to undo the last commit is:
+-> git reset --soft HEAD~1
+10. The command to push changes to a remote repository is:
+-> git push origin main
